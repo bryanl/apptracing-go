@@ -1,4 +1,4 @@
-.PHONY: import-people
+.PHONY: import-people create-db
 
 # create database
 create-db:
