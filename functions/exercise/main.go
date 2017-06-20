@@ -5,8 +5,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/bryanl/apptracing/internal/platform/logging"
-	atrand "github.com/bryanl/apptracing/internal/platform/rand"
+	"github.com/bryanl/apptracing-go/internal/platform/logging"
+	atrand "github.com/bryanl/apptracing-go/internal/platform/rand"
 	"github.com/go-kit/kit/log"
 )
 

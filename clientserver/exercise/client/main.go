@@ -4,7 +4,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/bryanl/apptracing/internal/platform/logging"
+	"github.com/bryanl/apptracing-go/internal/platform/logging"
 )
 
 func main() {
