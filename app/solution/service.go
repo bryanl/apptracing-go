@@ -5,8 +5,8 @@ import (
 
 	"time"
 
-	"github.com/bryanl/apptracing/internal/platform/db"
-	atrand "github.com/bryanl/apptracing/internal/platform/rand"
+	"github.com/bryanl/apptracing-go/internal/platform/db"
+	atrand "github.com/bryanl/apptracing-go/internal/platform/rand"
 	opentracing "github.com/opentracing/opentracing-go"
 	"github.com/opentracing/opentracing-go/ext"
 	otlog "github.com/opentracing/opentracing-go/log"

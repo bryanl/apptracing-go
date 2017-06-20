@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/bryanl/apptracing/internal/platform/logging"
-	"github.com/bryanl/apptracing/internal/platform/tracing"
+	"github.com/bryanl/apptracing-go/internal/platform/logging"
+	"github.com/bryanl/apptracing-go/internal/platform/tracing"
 	"github.com/go-kit/kit/log"
 	opentracing "github.com/opentracing/opentracing-go"
 	"github.com/opentracing/opentracing-go/ext"

@@ -5,8 +5,8 @@ import (
 
 	"time"
 
-	"github.com/bryanl/apptracing/internal/platform/db"
-	atrand "github.com/bryanl/apptracing/internal/platform/rand"
+	"github.com/bryanl/apptracing-go/internal/platform/db"
+	atrand "github.com/bryanl/apptracing-go/internal/platform/rand"
 	"github.com/pkg/errors"
 )
 
