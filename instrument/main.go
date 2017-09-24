@@ -12,8 +12,8 @@ import (
 
 	// db driver
 
-	"github.com/bryanl/apptracing/internal/platform/logging"
-	"github.com/bryanl/apptracing/internal/platform/tracing"
+	"github.com/bryanl/apptracing-go/internal/platform/logging"
+	"github.com/bryanl/apptracing-go/internal/platform/tracing"
 	_ "github.com/lib/pq"
 )
 

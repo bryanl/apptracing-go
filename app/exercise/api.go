@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/bryanl/apptracing/internal/platform/db"
+	"github.com/bryanl/apptracing-go/internal/platform/db"
 	"github.com/gorilla/mux"
 )
 
